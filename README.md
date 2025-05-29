@@ -56,7 +56,7 @@ This project demonstrates MongoDB basics and advanced features using a sample bo
 
 Below is an example of what your MongoDB Compass or Atlas screenshot should look like.
 
-![MongoDB Compass Screenshot](screenshot.png)
+![MongoDB Compass Screenshot](bookstore_screenshot.png)
 
 ---
 
